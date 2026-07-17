@@ -31,6 +31,7 @@ Python (pandas, matplotlib) in Jupyter Notebook.
 
 **1. Revenue leaders don't show a strong link between sales volume and review score overall.**
 Among the top 10 categories by revenue, average ratings were fairly consistent (3.90–4.15), showing no dramatic pattern.
+![Top 10 categories by revenue](images/top10_revenue.png)
 
 **2. `office_furniture` stands out as an outlier.**
 It's one of the highest-volume categories (1,701 units sold) but has one of the lowest average review scores (3.49) among all categories with reliable sample sizes (100+ sales).
